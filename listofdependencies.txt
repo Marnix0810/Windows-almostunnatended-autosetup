@@ -1,0 +1,54 @@
+;===================================================================================================
+;| This list is adapted to the following minimal requirements:                                     |
+;|=================================================================================================|
+;| OS: Windows 10                                                                                  |
+;| OS ver.: 1903                                                                                   |
+;| Internal Disk Space: 500 GB (HDD) or 120 GB (SSD/Flash)                                         |
+;| RAM: 4 GB                                                                                       |
+;| Architecture: 64-bit 32 (AMD64)                                                                 |
+;|=================================================================================================|
+;
+;Some programs are not for use on the pc being set up, please just close the setup or click cancel.
+;(most of the 'drivers'-category are meant for one computer model.)
+;
+; Category: Driver
+,http://ftp.hp.com/pub/softpaq/sp67501-68000/sp67743.exe,Coolsense-installer.exe
+,https://ftp.hp.com/pub/softlib/software13/HPSA/HPSupportSolutionsFramework-12.13.42.1.exe,HPSupportSolutionsFramework-12.13.42.1.exe
+;
+; Category: Others
+/q,https://www.7-zip.org/a/7z1900-x64.msi,7z1900-x64.exe
+,https://bits.avcdn.net/productfamily_ANTIVIRUS/insttype_FREE/platform_WIN/installertype_ONLINE/build_RELEASE,avast_free_antivirus_setup_online.exe
+;
+; Category: Media
+,https://github.com/ytmdesktop/ytmdesktop/releases/download/v1.4.1/YouTube.Music.Desktop.App.Setup.1.4.1.exe,YTMdesktopsetup.exe
+,https://raw.githubusercontent.com/Marnix0810/muZikDL/master/MuZikDL_install_script.cmd,MuZikDL_install_script.cmd
+/L=1033 /S /NCRC,https://videolan.mirror.wearetriple.com/vlc/3.0.8/win64/vlc-3.0.8-win64.exe,vlc-3.0.8-win64.exe
+,https://mirror.transip.net/stack/software/Stack-windows-latest.exe,Stack-windows-latest.exe
+;
+; Category: Internet
+/q,https://github.com/transmission/transmission/releases/download/2.92/transmission-2.92-x64.msi,transmissioninstaller64bit.msi
+/VERYSILENT,https://github.com/Marnix0810/FNew-Desktop-Windows/releases/download/1.0.2.1/FNew-Desktop_Win32-Setup.exe,FNew-Desktop_Win32-Setup.exe
+/q,https://download-installer.cdn.mozilla.net/pub/firefox/releases/70.0/win64/nl/Firefox%20Setup%2070.0.msi,Firefox-70.0_64bit.msi
+,https://storage.googleapis.com/nextdns_windows/NextDNSSetup-1.0.9.exe,NextDNSSetup-1.0.9.exe
+,https://download.cloud.lastpass.com/windows_installer/LastPassInstaller.exe,LastPassInstaller.exe
+;
+; Category: Social
+/VERYSILENT,https://update.gitter.im/win/GitterSetup-4.1.0.exe,GitterSetup-4.1.0.exe
+,https://updates.tdesktop.com/tsetup/tsetup.1.8.15.exe,tsetup.1.8.15.exe
+;
+; Category: Office
+,https://typora.io/windows/typora-setup-x64.exe,typora-setup-64bit.exe
+/q,https://github.com/jgm/pandoc/releases/download/2.7.3/pandoc-2.7.3-windows-x86_64.msi,pandocsetup.msi
+;
+; Category: Programming
+/VERYSILENT,https://github.com/GeKorm/dart-windows/releases/download/v1.6.0/Dart_x64.stable.setup.exe,Dart_x64.stable.setup.exe
+,https://download.visualstudio.microsoft.com/download/pr/d1553812-31d4-46b0-a480-e6b965eb1125/1eff794adbb1ba28db5803f9591c2d2edac50a897ad1947ffc7be9b3b49fa742/vs_Community.exe,vs_Community.exe
+,https://github.com/microsoft/terminal/releases/download/v0.5.2762.0/Microsoft.WindowsTerminal_0.5.2762.0_8wekyb3d8bbwe.msixbundle,Microsoft.WindowsTerminal_0.5.2762.0_8wekyb3d8bbwe.msixbundle
+/S,http://download.notepad-plus-plus.org/repository/7.x/7.8/npp.7.8.Installer.x64.exe,npp.7.8.Installer.x64.exe
+/q,https://az764295.vo.msecnd.net/stable/6ab598523be7a800d7f3eb4d92d7ab9a66069390/VSCodeSetup-x64-1.39.2.exe,VSCodeSetup-x64-1.39.2.exe
+/q,https://www.python.org/ftp/python/2.7.17/python-2.7.17.amd64.msi,python-2.7.17.amd64.msi
+/q,https://nodejs.org/dist/v13.2.0/node-v13.2.0-x64.msi,node-v13.2.0-x64.msi
+,https://atom-installer.github.com/v1.40.1/AtomSetup-x64.exe,AtomSetup-x64.exe
+,https://github.com/git-for-windows/git/releases/download/v2.23.0.windows.1/Git-2.23.0-64-bit.exe,Git-2.23.0-64-bit.exe
+/q,https://https://desktop.githubusercontent.com/releases/2.2.2-5a1cfa2d/GitHubDesktopSetup.msi,GitHubDesktopSetup.msi
+,https://mlaan2.home.xs4all.nl/ispack/innosetup-qsp-6.0.3.exe,innosetup-qsp-6.0.3.exe
