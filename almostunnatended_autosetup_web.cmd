@@ -28,7 +28,7 @@ cd /d "%userprofile%\Downloads\"
 md "%userprofile%\Downloads\Auto_downloaded_for_setup_of_computer"
 cd /d "%userprofile%\Downloads\Auto_downloaded_for_setup_of_computer"
 echo downloading software list...
-powershell -command "& { (New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/Marnix0810/Computer-almostunnatended-autosetup/master/listofdependencies.txt', 'listofdependencies.txt') }"
+powershell -command "& { (New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/Marnix0810/Windows-almostunnatended-autosetup/master/listofdependencies.txt', 'listofdependencies.txt') }"
 cls
 FOR /F "usebackq tokens=1,2* delims=," %%G IN ("listofdependencies.txt") DO (
 title Downloading and installing
