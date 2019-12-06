@@ -52,3 +52,4 @@
 ,https://github.com/git-for-windows/git/releases/download/v2.23.0.windows.1/Git-2.23.0-64-bit.exe,Git-2.23.0-64-bit.exe
 /q,https://https://desktop.githubusercontent.com/releases/2.2.2-5a1cfa2d/GitHubDesktopSetup.msi,GitHubDesktopSetup.msi
 ,https://mlaan2.home.xs4all.nl/ispack/innosetup-qsp-6.0.3.exe,innosetup-qsp-6.0.3.exe
+/quiet,https://repo.anaconda.com/archive/Anaconda3-2019.10-Windows-x86_64.exe,Anaconda3-2019.10-Windows-x86_64.exe
