@@ -28,7 +28,7 @@ cd /d "%userprofile%\Downloads\"
 md "%userprofile%\Downloads\Auto_downloaded_for_setup_of_computer"
 cd /d "%userprofile%\Downloads\Auto_downloaded_for_setup_of_computer"
 echo downloading software list...
-call powershell -command "iwr -outf listofdependencies.txt https://raw.githubusercontent.com/Marnix0810/Windows-almostunnatended-autosetup/master/listofdependencies.txt"
+powershell -command "& { (New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/Marnix0810/Windows-almostunnatended-autosetup/master/listofdependencies.txt', 'listofdependencies.txt') }"
 cls
 FOR /F "usebackq tokens=1,2* delims=," %%G IN ("listofdependencies.txt") DO (
 title Downloading and installing
@@ -37,7 +37,7 @@ echo:
 echo The installation of:
 echo:
 echo downloading the file %%H
-call powershell -command "iwr -outf %%I %%H"
+powershell -command "& { (New-Object Net.WebClient).DownloadFile('%%H', '%%I') }"
 echo download of %%I complete. Executing installation...
 start /wait "" "%%I" %%G || echo the setup reported an error.
 echo the file is closed or completed execution, either way, the next file is selected.
