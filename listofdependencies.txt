@@ -16,8 +16,7 @@
 ,https://ftp.hp.com/pub/softlib/software13/HPSA/HPSupportSolutionsFramework-12.13.42.1.exe,HPSupportSolutionsFramework-12.13.42.1.exe
 ;
 ; Category: Others
-/q,https://www.7-zip.org/a/7z1900-x64.msi,7z1900-x64.exe
-,https://bits.avcdn.net/productfamily_ANTIVIRUS/insttype_FREE/platform_WIN/installertype_ONLINE/build_RELEASE,avast_free_antivirus_setup_online.exe
+/q,https://www.7-zip.org/a/7z1900-x64.msi,7z1900-x64.msi
 ;
 ; Category: Media
 ,https://github.com/ytmdesktop/ytmdesktop/releases/download/v1.4.1/YouTube.Music.Desktop.App.Setup.1.4.1.exe,YTMdesktopsetup.exe
@@ -28,8 +27,6 @@
 ; Category: Internet
 /q,https://github.com/transmission/transmission/releases/download/2.92/transmission-2.92-x64.msi,transmissioninstaller64bit.msi
 /VERYSILENT,https://github.com/Marnix0810/FNew-Desktop-Windows/releases/download/1.0.2.1/FNew-Desktop_Win32-Setup.exe,FNew-Desktop_Win32-Setup.exe
-/q,https://download-installer.cdn.mozilla.net/pub/firefox/releases/70.0/win64/nl/Firefox%20Setup%2070.0.msi,Firefox-70.0_64bit.msi
-,https://storage.googleapis.com/nextdns_windows/NextDNSSetup-1.0.9.exe,NextDNSSetup-1.0.9.exe
 ,https://download.cloud.lastpass.com/windows_installer/LastPassInstaller.exe,LastPassInstaller.exe
 ;
 ; Category: Social
@@ -48,7 +45,6 @@
 /q,https://az764295.vo.msecnd.net/stable/6ab598523be7a800d7f3eb4d92d7ab9a66069390/VSCodeSetup-x64-1.39.2.exe,VSCodeSetup-x64-1.39.2.exe
 /q,https://www.python.org/ftp/python/2.7.17/python-2.7.17.amd64.msi,python-2.7.17.amd64.msi
 /q,https://nodejs.org/dist/v13.2.0/node-v13.2.0-x64.msi,node-v13.2.0-x64.msi
-,https://atom-installer.github.com/v1.40.1/AtomSetup-x64.exe,AtomSetup-x64.exe
 ,https://github.com/git-for-windows/git/releases/download/v2.23.0.windows.1/Git-2.23.0-64-bit.exe,Git-2.23.0-64-bit.exe
 /q,https://https://desktop.githubusercontent.com/releases/2.2.2-5a1cfa2d/GitHubDesktopSetup.msi,GitHubDesktopSetup.msi
 ,https://mlaan2.home.xs4all.nl/ispack/innosetup-qsp-6.0.3.exe,innosetup-qsp-6.0.3.exe
