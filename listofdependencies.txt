@@ -17,6 +17,7 @@
 ;
 ; Category: Others
 /q,https://www.7-zip.org/a/7z1900-x64.msi,7z1900-x64.msi
+,https://download.gotrustid.com/GoTrustID/Windows/GoTrust%20ID%20Plugin%20Installer.exe,GoTrust-ID-Plugin-Installer.exe
 ;
 ; Category: Media
 ,https://github.com/ytmdesktop/ytmdesktop/releases/download/v1.4.1/YouTube.Music.Desktop.App.Setup.1.4.1.exe,YTMdesktopsetup.exe
@@ -25,6 +26,7 @@
 ,https://mirror.transip.net/stack/software/Stack-windows-latest.exe,Stack-windows-latest.exe
 ;
 ; Category: Internet
+,https://github.com/Marnix0810/Windows-almostunnatended-autosetup/raw/master/Binaries/ChromeSetup.exe,ChromeSetup.exe
 /q,https://github.com/transmission/transmission/releases/download/2.92/transmission-2.92-x64.msi,transmissioninstaller64bit.msi
 /VERYSILENT,https://github.com/Marnix0810/FNew-Desktop-Windows/releases/download/1.0.2.1/FNew-Desktop_Win32-Setup.exe,FNew-Desktop_Win32-Setup.exe
 ,https://download.cloud.lastpass.com/windows_installer/LastPassInstaller.exe,LastPassInstaller.exe
