@@ -24,6 +24,10 @@ if '%errorlevel%' NEQ '0' (
     pushd "%CD%"
     CD /D "%~dp0"
 pause
+cls
+echo Attention!
+echo Windows 10 versions prior to 1909 seem to have a bug which causes trouble with this script, if you are using Windows 10 1903 or earlier please upgrade first.
+pause
 cd /d "%userprofile%\Downloads\"
 md "%userprofile%\Downloads\Auto_downloaded_for_setup_of_computer"
 cd /d "%userprofile%\Downloads\Auto_downloaded_for_setup_of_computer"
