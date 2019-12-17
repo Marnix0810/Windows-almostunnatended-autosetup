@@ -38,6 +38,7 @@
 ; Category: Office
 /q,https://typora.io/windows/typora-setup-x64.exe,typora-setup-64bit.exe
 /q,https://github.com/jgm/pandoc/releases/download/2.7.3/pandoc-2.7.3-windows-x86_64.msi,pandocsetup.msi
+,https://admdownload.adobe.com/bin/live/readerdc_nl_a_install.exe,readerdc_nl_a_install.exe
 ;
 ; Category: Programming
 /VERYSILENT,https://github.com/GeKorm/dart-windows/releases/download/v1.6.0/Dart_x64.stable.setup.exe,Dart_x64.stable.setup.exe
