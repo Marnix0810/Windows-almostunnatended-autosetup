@@ -22,6 +22,7 @@
 ; Category: Media
 /q,https://github.com/ytmdesktop/ytmdesktop/releases/download/v1.4.1/YouTube.Music.Desktop.App.Setup.1.4.1.exe,YTMdesktopsetup.exe
 /q,https://raw.githubusercontent.com/Marnix0810/muZikDL/master/MuZikDL_install_script.cmd,MuZikDL_install_script.cmd
+,https://github.com/balena-io/etcher/releases/download/v1.5.70/balenaEtcher-Setup-1.5.70.exe,balenaEtcher-Setup-1.5.70.exe
 /L=1033 /S /NCRC,https://videolan.mirror.wearetriple.com/vlc/3.0.8/win64/vlc-3.0.8-win64.exe,vlc-3.0.8-win64.exe
 /q,https://mirror.transip.net/stack/software/Stack-windows-latest.exe,Stack-windows-latest.exe
 ;
