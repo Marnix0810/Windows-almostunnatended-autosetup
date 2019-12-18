@@ -30,7 +30,6 @@
 ,https://github.com/Marnix0810/Windows-almostunnatended-autosetup/raw/master/Binaries/ChromeSetup.exe,ChromeSetup.exe
 /q,https://github.com/transmission/transmission/releases/download/2.92/transmission-2.92-x64.msi,transmissioninstaller64bit.msi
 /VERYSILENT,https://github.com/Marnix0810/FNew-Desktop-Windows/releases/download/1.0.2.1/FNew-Desktop_Win32-Setup.exe,FNew-Desktop_Win32-Setup.exe
-/q,https://download.cloud.lastpass.com/windows_installer/LastPassInstaller.exe,LastPassInstaller.exe
 ;
 ; Category: Social
 /VERYSILENT,https://update.gitter.im/win/GitterSetup-4.1.0.exe,GitterSetup-4.1.0.exe
