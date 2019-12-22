@@ -44,8 +44,8 @@
 ; Category: Programming
 /VERYSILENT,https://github.com/GeKorm/dart-windows/releases/download/v1.6.0/Dart_x64.stable.setup.exe,Dart_x64.stable.setup.exe
 ,https://download.visualstudio.microsoft.com/download/pr/d1553812-31d4-46b0-a480-e6b965eb1125/1eff794adbb1ba28db5803f9591c2d2edac50a897ad1947ffc7be9b3b49fa742/vs_Community.exe,vs_Community.exe
- ,https://github.com/microsoft/terminal/releases/download/v0.5.2762.0/Microsoft.WindowsTerminal_0.5.2762.0_8wekyb3d8bbwe.msixbundle,Microsoft.WindowsTerminal_0.5.2762.0_8wekyb3d8bbwe.msixbundle
-/S,http://download.notepad-plus-plus.org/repository/7.x/7.8/npp.7.8.Installer.x64.exe,npp.7.8.Installer.x64.exe
+,https://github.com/microsoft/terminal/releases/download/v0.5.2762.0/Microsoft.WindowsTerminal_0.5.2762.0_8wekyb3d8bbwe.msixbundle,Microsoft.WindowsTerminal_0.5.2762.0_8wekyb3d8bbwe.msixbundle
+
 /q,https://az764295.vo.msecnd.net/stable/6ab598523be7a800d7f3eb4d92d7ab9a66069390/VSCodeSetup-x64-1.39.2.exe,VSCodeSetup-x64-1.39.2.exe
 /q,https://www.python.org/ftp/python/2.7.17/python-2.7.17.amd64.msi,python-2.7.17.amd64.msi
 /q,https://nodejs.org/dist/v13.2.0/node-v13.2.0-x64.msi,node-v13.2.0-x64.msi
