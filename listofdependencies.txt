@@ -36,6 +36,7 @@
 /q,https://updates.tdesktop.com/tsetup/tsetup.1.8.15.exe,tsetup.1.8.15.exe
 ;
 ; Category: Office
+,https://github.com/Automattic/simplenote-electron/releases/download/v1.12.0/Simplenote-win-1.12.0.exe,Simplenote-win-1.12.0.exe
 /q,https://typora.io/windows/typora-setup-x64.exe,typora-setup-64bit.exe
 /q,https://github.com/jgm/pandoc/releases/download/2.7.3/pandoc-2.7.3-windows-x86_64.msi,pandocsetup.msi
 ,https://admdownload.adobe.com/bin/live/readerdc_nl_a_install.exe,readerdc_nl_a_install.exe
