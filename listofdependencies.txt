@@ -31,6 +31,8 @@
 /q,https://github.com/transmission/transmission/releases/download/2.92/transmission-2.92-x64.msi,transmissioninstaller64bit.msi
 /VERYSILENT,https://github.com/Marnix0810/FNew-Desktop-Windows/releases/download/1.0.2.1/FNew-Desktop_Win32-Setup.exe,FNew-Desktop_Win32-Setup.exe
 ;
+; Category: Security
+,https://developers.yubico.com/yubikey-manager-qt/Releases/yubikey-manager-qt-1.1.3-win64.exe,yubikey-manager-qt-1.1.3-win64.exe
 ; Category: Social
 /VERYSILENT,https://update.gitter.im/win/GitterSetup-4.1.0.exe,GitterSetup-4.1.0.exe
 /q,https://updates.tdesktop.com/tsetup/tsetup.1.8.15.exe,tsetup.1.8.15.exe
